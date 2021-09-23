@@ -1,7 +1,7 @@
 <h1 align="center">❄️ Controle de ar condicionado ❄️</h1>
 
 ## 📚 Sobre
- <p align="center">  Esse projeto é um aplicativo mobile feito por estudantes da IFMT, com a finalidade de  facilitar o gerenciamento e utilização de ar condicionado em várias salas.
+ <p>  Esse projeto é um aplicativo mobile feito por estudantes da IFMT, com a finalidade de  facilitar o gerenciamento e utilização de ar condicionado em várias salas.
  Será estabelecido uma conexão entre o celular, rede Wi-fi e ESP-32, podendo assim controlar as funções do ar condicionado diretamente da aplicação.</p>
 
 ### 📋 Andamento
