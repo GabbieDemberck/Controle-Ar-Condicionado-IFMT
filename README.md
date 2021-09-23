@@ -1,16 +1,44 @@
-# projetoArCondicionadoIFMT2021
+<h1 align="center">❄️ Controle de ar condicionado ❄️</h1>
 
-A new Flutter project.
+## 📚 Sobre
+ <p align="center">  Esse projeto é um aplicativo mobile feito por estudantes da IFMT, com a finalidade de  facilitar o gerenciamento e utilização de ar condicionado em várias salas.
+ Será estabelecido uma conexão entre o celular, rede Wi-fi e ESP-32, podendo assim controlar as funções do ar condicionado diretamente da aplicação.</p>
 
-## Getting Started
+### 📋 Andamento
 
-This project is a starting point for a Flutter application.
+- [x] Splash
+- [x] Tela inicial
+- [ ] Login
+- [ ] Conexão por wi-fi
+- [ ] Conexão por QR Code
 
-A few resources to get you started if this is your first Flutter project:
+⭐ Extra
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [ ] Configuração parâmetros pelo modelo do aparelho
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ⚙️ Pré-requisitos
+
+Será necessário ter instalado em sua máquina: 
+
+    * [Git](https://git-scm.com)
+    * [Flutter SDK](https://flutter.dev/docs/get-started/install)
+    * [Android Studio](https://developer.android.com/studio)
+
+❗ É recomendado ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com).
+
+## 🕹️ ️Como usar
+
+```
+Clone este repositório
+$ git clone https://github.com/GabbieDemberck/Controle-Ar-Condicionado-IFMT.git
+
+Acesse a pasta do projeto no terminal/cmd
+$ cd Controle-Ar-Condicionado-IFMT
+
+Instale as dependências
+$ flutter pub get
+
+Execute a aplicação
+$ flutter run
+
+```
