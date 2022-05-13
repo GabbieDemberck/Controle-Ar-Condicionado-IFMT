@@ -1,4 +1,5 @@
 <h1 align="center">❄️ Controle de ar condicionado ❄️</h1>
+## PARALIZADO❗
 
 ## 📚 Sobre
  <p>  Esse projeto é um aplicativo mobile feito por estudantes da IFMT, com a finalidade de  facilitar o gerenciamento e utilização de ar condicionado em várias salas.
